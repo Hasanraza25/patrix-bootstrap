@@ -9,4 +9,4 @@ This is a fully responsive web project built with Bootstrap and Sass. It showcas
 
 ## Demo
 
-[Live Demo](https://patrix-chi.vercel.app/) *(Replace with your live demo link)*
+[Live Demo](https://patrix-chi.vercel.app/)
